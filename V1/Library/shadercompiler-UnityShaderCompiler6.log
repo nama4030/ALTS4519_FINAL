@@ -1,0 +1,20 @@
+Base path: '/Users/builduser/buildslave/unity/build/build/MacEditor/Unity.app/Contents', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=10881 outsize=11445 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4855 outsize=5116 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5781 outsize=8380 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3386 outsize=5934 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=18299 outsize=11282 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11294 outsize=24763 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1806 outsize=1997 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2044 outsize=1477 ok=1
+
+Quitting shader compiler process
